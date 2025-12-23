@@ -1,0 +1,6 @@
+public class script1(){
+
+
+//Estado 1 cargar
+
+}
