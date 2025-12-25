@@ -1,5 +1,5 @@
 public class script1(){
-
+//modificacion archivo 2
 
 //Estado 1 cargar
 
