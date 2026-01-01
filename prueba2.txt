@@ -5,8 +5,6 @@ public class controller(){
 
 //Modificacion en linea
 
-//Modificicacion acciones
-//acciones
-//Se ha creado una nueva rama 
+
 
 }
